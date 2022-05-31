@@ -1,0 +1,50 @@
+body{
+    background-color: darkslategray;
+    margin: auto;
+    width: 1000px;}
+header{
+    background-color: aqua;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    vertical-align: middle;
+    text-align: center;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+footer{
+    background-color: aqua;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    vertical-align: middle;
+    left: 0;
+    right: 0;
+    bottom: 0;}
+    h1{
+    color: darkslategray;
+    text-align: center;
+    margin-top: 20px;    
+    font-size: 40px;  
+    font-family: monospace;
+    }
+    h6{
+    font-family: monospace;
+    font-size: 20px;
+    color: darkslategray;
+    margin-top: 5px;
+    text-align: center;
+    }
+h2{ 
+text-align: center;
+font-size: 25px;
+font-family:monospace;
+color: black;
+}
+li{
+ font-size: 25px;   
+   font-family:inherit; 
+    
+}
